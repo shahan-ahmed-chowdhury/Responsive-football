@@ -150,6 +150,7 @@ Highlight section styles
         height: 138px;
         width: 278px;
         margin: 10px 60px 0px 16px;
+        padding-right: 15px;
     }
     .title{
         font-weight: 700;
